@@ -1,4 +1,4 @@
-![hello-there]()
+![hello-there](https://github.com/AryanDouglas01/AryanDouglas01/blob/main/hello-there.gif)
 - My name is Aryan Douglas
 - I'm a Computer Science Student at the Federal University of Goiás
 

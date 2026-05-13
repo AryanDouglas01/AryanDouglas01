@@ -8,10 +8,13 @@
 > Computer Science Student
 > Industrial Automation Technician
 > Cybersecurity & Theoretical Computing Enthusiast
-> "The answer lies in the heart of battle." — MGS:R
+> "To survive a war, you gotta become war." — John Rambo
 ```
 
-<img src="./assets/gol_d_roger.png" width="700"/>
+<img 
+src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/GoldROger.png?raw=true" 
+width="550"
+/>
 
 </div>
 
@@ -24,7 +27,7 @@ class Aryan
 {
 public:
 
-    string focus =
+    string focus[] =
     {
         "Cybersecurity",
         "Software Development",
@@ -133,9 +136,9 @@ understanding complex systems requires persistence, adaptability and vision.
 # ⚔️ Inspirations
 
 ```txt
-Star Wars        → Strategy, philosophy, discipline
-One Piece        → Freedom, ambition, exploration
-Metal Gear Rising→ Willpower, evolution, transcendence
+Star Wars         → Strategy, philosophy, discipline
+One Piece         → Freedom, ambition, exploration
+Metal Gear Rising → Willpower, evolution, transcendence
 ```
 
 ---
@@ -160,9 +163,9 @@ while alive:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanDouglas01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDouglas01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -172,7 +175,7 @@ while alive:
 
 - 📧 your.email@email.com
 - 💼 LinkedIn: linkedin.com/in/seu-perfil
-- 🌐 GitHub: github.com/seu-usuario
+- 🌐 GitHub: github.com/AryanDouglas01
 
 ---
 

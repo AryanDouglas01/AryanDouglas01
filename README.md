@@ -2,13 +2,14 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=There+is+no+knowledge+without+curiosity.;Industrial+Automation+%7C+Cybersecurity;Graph+Theory+%7C+Algorithms+%7C+Physics;Low-Level+Systems+%7C+Mathematics;The+code+is+the+DNA+of+the+machine." />
 
-# ⚡ Aryan
+# 🏴‍☠️ Aryan Douglas 🏴‍☠️
 
 ```bash
 > Computer Science Student
 > Industrial Automation Technician
 > Cybersecurity & Theoretical Computing Enthusiast
-> "To survive a war, you gotta become war." — John Rambo
+> "Inherited will. The tide of the times. People's dreams. These things cannot be stopped.
+   As long as people seek the answer of freedom, these things will never cease to be." — Gol D. Roger
 ```
 
 <img 
@@ -133,6 +134,26 @@ understanding complex systems requires persistence, adaptability and vision.
 
 ---
 
+# ⚛️ A genius who kneels before the Master
+
+<div align="center">
+
+<img 
+src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/Newton.png?raw=true" 
+width="700"
+/>
+
+<br><br>
+
+> “I consider the Scriptures of God to be the most sublime philosophy.  
+> I find more sure marks of authenticity in the Bible than in any profane history whatsoever.”
+>
+> — Isaac Newton
+
+</div>
+
+---
+
 # ⚔️ Inspirations
 
 ```txt
@@ -173,8 +194,8 @@ while alive:
 
 # 📫 Contact
 
-- 📧 your.email@email.com
-- 💼 LinkedIn: linkedin.com/in/seu-perfil
+- 📧 aryandouglas15@hotmail.com
+- 💼 LinkedIn: www.linkedin.com/in/aryan-douglas-borges-rodrigues-0a555929a
 - 🌐 GitHub: github.com/AryanDouglas01
 
 ---
@@ -183,9 +204,9 @@ while alive:
 
 ```diff
 + STATUS: ONLINE
-+ OBJECTIVE: UNDERSTAND COMPLEX SYSTEMS
-+ POWER LEVEL: INCREASING
-+ NEXT ARC: THEORETICAL COMPUTING
++ OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
++ CURIOSITY: LOCKED AND LOADED
++ NEXT DIMENSION: THEORETICAL COMPUTING
 ```
 
 </div>

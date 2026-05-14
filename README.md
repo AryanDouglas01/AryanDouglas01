@@ -226,33 +226,22 @@ while alive:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryanDouglas01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanDouglas01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
 
 # 📫 Contact
 
 - 📧 aryandouglas15@hotmail.com
 - 💼 LinkedIn: www.linkedin.com/in/aryan-douglas-borges-rodrigues-0a555929a
-- 🌐 GitHub: github.com/AryanDouglas01
+- 🌐 GitHub: [github.com/AryanDouglas01](https://github.com/AryanDouglas01)
 
 ---
 
 <div align="center">
 
-   ```diff
-   + STATUS: ONLINE
-   + OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
-   + CURIOSITY: LOCKED AND LOADED
-   + NEXT DIMENSION: THEORETICAL COMPUTING
-   ```
+```diff
++ STATUS: ONLINE
++ OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
++ CURIOSITY: LOCKED AND LOADED
++ NEXT DIMENSION: THEORETICAL COMPUTING
+```
 
 </div>

@@ -35,17 +35,11 @@ Interested in:
 
 ## Technologies
 
-```txt
-C / C++
-C#
-.NET
-SQL
-Linux
-Git & GitHub
-Rockwell Automation
-Studio 5000
-PlantPAx DCS
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,mysql,linux,git,github&theme=dark" height="65"/>
+
+</div>
 
 ---
 

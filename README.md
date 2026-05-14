@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=There+is+no+knowledge+without+curiosity.;Industrial+Automation+%7C+Cybersecurity;Graph+Theory+%7C+Algorithms+%7C+Physics;Low-Level+Systems+%7C+Mathematics;The+code+is+the+DNA+of+the+machine." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=There+is+no+knowledge+without+curiosity.;Industrial+Automation+%7C+Cybersecurity;Graph+Theory+%7C+Algorithms+%7C+Physics;Low-Level+Systems+%7C+Mathematics;The+code+is+the+DNA+of+the+machine." />
 
 # 🏴‍☠️ Aryan Douglas 🏴‍☠️
 
@@ -23,32 +23,66 @@ width="550"
 
 # 🧠 About Me
 
-```cpp
-class Aryan
-{
-public:
+Computer Science student at the **Federal University of Goiás (UFG)** with a technical background in **Industrial Automation** from **IFG**.
 
-    string focus[] =
-    {
-        "Cybersecurity",
-        "Software Development",
-        "Automation Systems",
-        "Theoretical Computer Science",
-        "Mathematics",
-        "Physics"
-    };
+Former intern working with both:
+- industrial automation systems;
+- HMI development;
+- Rockwell Automation technologies;
+- and software/web development using modern development stacks.
 
-    bool curiosity = true;
-    bool stop_learning = false;
-};
+Experienced with:
+- C/C++;
+- C# and .NET;
+- SQL;
+- Git/GitHub;
+- Linux environments;
+- industrial control systems;
+- automation logic;
+- software architecture fundamentals.
+
+My academic and professional interests focus on:
+- cybersecurity;
+- low-level systems;
+- algorithms;
+- graph theory;
+- discrete mathematics;
+- theoretical computer science;
+- software engineering;
+- industrial automation.
+
+I enjoy connecting rigorous theoretical concepts with practical engineering applications and understanding systems from their mathematical foundations to their real-world implementations.
+
+---
+
+# 🌎 English Certification
+
+<div align="center">
+
+<img 
+src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/METCTF.jpeg?raw=true" 
+width="500"
+/>
+
+</div>
+
+Certified with **C1 Advanced English Proficiency** through the  
+**Michigan English Test (MET)** by the **University of Michigan**.
+
+### Skills Assessed
+
+```txt
+Listening
+Reading
+Advanced English Comprehension
+Technical Interpretation
 ```
 
-- 🎓 Computer Science student at **Federal University of Goiás (UFG)**
-- ⚙️ Industrial Automation Technician from **IFG**
-- 🏭 Former intern at **TSE Engenharia e Automação**
-- 🌎 English C1 certified by the **Michigan English Test (MET)**
-
-I enjoy understanding systems from their deepest mathematical foundations to their real-world implementation.
+This certification supports my ability to:
+- read technical documentation;
+- communicate in international environments;
+- study advanced scientific and technical materials;
+- collaborate on global software and engineering projects.
 
 ---
 
@@ -73,20 +107,35 @@ I enjoy understanding systems from their deepest mathematical foundations to the
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F7FF)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00F7FF)
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=00F7FF)
-![DotNet](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=00F7FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00F7FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F7FF)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF003C)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=FF003C)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=FF003C)
+![DotNet](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=FF003C)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FF003C)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF003C)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF003C)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FF003C)
 
 </div>
 
 ---
 
-# 🏭 Industrial Automation
+# 🏭 Industrial Automation Experience
+
+Worked on industrial automation and software development projects focused on Industry 4.0 solutions.
+
+### Main Activities
+
+- Development of industrial automation systems;
+- Human-Machine Interface (HMI) development;
+- PlantPAx DCS interfaces;
+- Ladder Logic programming;
+- Function Block Diagram (FBD) programming;
+- Studio 5000 development;
+- Integration between industrial systems and operator interfaces;
+- Support for industrial software solutions.
+
+### Technologies
 
 ```txt
 Rockwell Automation
@@ -94,9 +143,18 @@ PlantPAx DCS
 Studio 5000
 Ladder Logic
 Function Block Diagram (FBD)
-Human-Machine Interfaces (HMI)
+Industrial Control Systems
 Industry 4.0
 ```
+
+### Software Development Experience
+
+- Web application development;
+- MVC architecture;
+- SQL database interaction;
+- Backend development with C#/.NET;
+- Git/GitHub workflow;
+- Internal solutions for industrial environments.
 
 ---
 
@@ -104,63 +162,39 @@ Industry 4.0
 
 ## ✈️ UAV Energy Efficiency Research
 
-Scientific initiation project focused on:
+Scientific initiation project developed at **IFG** focused on:
 - hardware optimization;
 - energy efficiency;
+- flight stability systems;
 - control systems;
-- flight stability;
-- experimental methodologies.
+- UAV modeling and calibration;
+- experimental methodologies for industrial education.
+
+### Main Objectives
+
+- Develop a UAV optimized for energy efficiency;
+- Analyze hardware configurations;
+- Study stability control techniques;
+- Improve laboratory and teaching methodologies.
+
+### Technical Areas Involved
+
+```txt
+Embedded Systems
+Control Systems
+Energy Efficiency
+Automation
+Hardware Optimization
+Experimental Research
+```
 
 > [!IMPORTANT]
-> **Project Report:** 
+> **Project Report:**  
 > 📄 [Relatorio_IC_PIBIC_IFG_2022_AEROMODELO.pdf](https://github.com/AryanDouglas01/AryanDouglas01/blob/main/Relatorio_IC_PIBIC_IFG_2022_AEROMODELO-bf88d8733a05401aa554e279187be5d0.pdf)
 
-*Developed during my research period at IFG.*
-
-
 ---
 
-
-# 🌌 Philosophy
-
-<div align="center">
-
-## “The Force will be with you. Always.”
-
-</div>
-
-I believe technology becomes truly powerful when built upon:
-- mathematical rigor;
-- logical thinking;
-- curiosity;
-- discipline.
-
-Like navigation in the Grand Line:
-understanding complex systems requires persistence, adaptability and vision.
-
----
-
-# ⚛️ One of my mathematical inspirations
-
-<div align="center">
-
-<img 
-src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/Newton.png?raw=true" 
-width="700"
-/>
-
-<br><br>
-
-> “I consider the Scriptures of God to be the most sublime philosophy.  
-> I find more sure marks of authenticity in the Bible than in any profane history whatsoever.”
->
-> — Isaac Newton
-
-</div>
-
----
-
-# 🐧 Think for yourself
+# 🐧 Systems, Security & Low-Level Computing
 
 <div align="center">
 
@@ -169,49 +203,60 @@ src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/LInus.png?raw=tr
 width="750"
 />
 
-<br><br>
-
-> “I want to decide for myself. I'm very much against unnecessary rules imposed by society.
->
-> I'm a big believer that you should be able to do whatever you want in the privacy of your own home as long as you don't hurt anybody else.
->
-> Any law saying otherwise is a very, very broken law.
->
-> And there are laws that say otherwise.
->
-> I find some scary rules, especially some that are imposed on schools and children.
->
-> Imagine even thinking of imposing rules about teaching evolution, and taking that into the wrong direction.
->
-> That I find scary.
->
-> This is social conscience rearing its ugly head in places it really has nothing at all to do with.”
->
-> — Linus Torvalds
-
 </div>
 
----
-
 ```bash
-> Build systems.
-> Question abstractions.
-> Understand the machine.
-> Look up for failures and security breaches.
-> Break systems if necessary..
-> Respect freedom.
+> Build systems
+> Analyze architectures
+> Understand abstractions
+> Explore low-level computing
+> Investigate security flaws
+> Defend digital freedom
+> Support open-source ecosystems
+> Question mass surveillance
+> Respect privacy rights
+> Study secure system design
+> Optimize performance
+> Freedom over unnecessary control
 ```
 
 ---
 
-# ⚔️ Inspirations
+# 🧩 Skills
+
+## Hard Skills
 
 ```txt
-Jesus Christ    → Truth, wisdom, sacrifice
-Nikola Tesla    → Innovation, imagination, invention
-Isaac Newton    → Mathematics, physics, rational inquiry
-Galileo Galilei → Scientific courage, observation, reason
-Linus Torvalds  → Engineering, open source, low-level systems
+C / C++
+C#
+.NET
+SQL
+Git & GitHub
+Linux
+Industrial Automation
+HMI Development
+Studio 5000
+PlantPAx DCS
+Ladder Logic
+FBD
+Cybersecurity Fundamentals
+Algorithms & Data Structures
+Discrete Mathematics
+Graph Theory
+```
+
+## Soft Skills
+
+```txt
+Analytical Thinking
+Problem Solving
+Technical Curiosity
+Adaptability
+Research Mindset
+Continuous Learning
+Communication
+Team Collaboration
+Attention to Detail
 ```
 
 ---
@@ -232,7 +277,6 @@ while alive:
 
 ---
 
-
 # 📫 Contact
 
 - 📧 aryandouglas15@hotmail.com
@@ -245,8 +289,9 @@ while alive:
 
 ```diff
 + STATUS: ONLINE
-+ OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
-+ CURIOSITY: LOCKED AND LOADED
++ OBJECTIVE: UNDERSTAND SYSTEMS FROM THEORY TO IMPLEMENTATION
++ PRIVACY: SHOULD BE A FUNDAMENTAL RIGHT
++ OPEN SOURCE: ENABLES TRANSPARENCY
 + NEXT DIMENSION: THEORETICAL COMPUTING
 ```
 

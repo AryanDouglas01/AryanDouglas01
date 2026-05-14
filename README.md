@@ -9,7 +9,7 @@
 > Industrial Automation Technician
 > Cybersecurity & Theoretical Computing Enthusiast
 > "Inherited will. The tide of the times. People's dreams. These things cannot be stopped.
-   As long as people seek the answer of freedom, these things will never cease to be." — Gol D. Roger
+      As long as people seek the answer of freedom, these things will never cease to be." — Gol D. Roger
 ```
 
 <img 
@@ -154,12 +154,58 @@ width="700"
 
 ---
 
+# 🐧 Walking Metamorphosis
+
+<div align="center">
+
+<img 
+src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/LInus.png?raw=true" 
+width="750"
+/>
+
+<br><br>
+
+> “I want to decide for myself. I'm very much against unnecessary rules imposed by society.
+>
+> I'm a big believer that you should be able to do whatever you want in the privacy of your own home as long as you don't hurt anybody else.
+>
+> Any law saying otherwise is a very, very broken law.
+>
+> And there are laws that say otherwise.
+>
+> I find some scary rules, especially some that are imposed on schools and children.
+>
+> Imagine even thinking of imposing rules about teaching evolution, and taking that into the wrong direction.
+>
+> That I find scary.
+>
+> This is social conscience rearing its ugly head in places it really has nothing at all to do with.”
+>
+> — Linus Torvalds
+
+</div>
+
+---
+
+```bash
+> Build systems.
+> Question abstractions.
+> Understand the machine.
+> Look up for failures and security breaches.
+> Break systems if necessary..
+> Respect freedom.
+```
+
+---
+
 # ⚔️ Inspirations
 
 ```txt
-Star Wars         → Strategy, philosophy, discipline
-One Piece         → Freedom, ambition, exploration
-Metal Gear Rising → Willpower, evolution, transcendence
+Jesus Christ    → Truth, wisdom, sacrifice
+Nikola Tesla    → Innovation, imagination, invention
+Isaac Newton    → Mathematics, physics, rational inquiry
+Galileo Galilei → Scientific courage, observation, reason
+Linus Torvalds  → Engineering, open source, low-level systems
 ```
 
 ---
@@ -202,11 +248,11 @@ while alive:
 
 <div align="center">
 
-```diff
-+ STATUS: ONLINE
-+ OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
-+ CURIOSITY: LOCKED AND LOADED
-+ NEXT DIMENSION: THEORETICAL COMPUTING
-```
+   ```diff
+   + STATUS: ONLINE
+   + OBJECTIVE: TRANSLATE THE COMPLEX TO SIMPLE AND UNDERSTANDABLE
+   + CURIOSITY: LOCKED AND LOADED
+   + NEXT DIMENSION: THEORETICAL COMPUTING
+   ```
 
 </div>

@@ -134,7 +134,7 @@ understanding complex systems requires persistence, adaptability and vision.
 
 ---
 
-# ⚛️ A genius who kneels before the Master
+# ⚛️ One of my mathematical inspirations
 
 <div align="center">
 
@@ -154,7 +154,7 @@ width="700"
 
 ---
 
-# 🐧 Walking Metamorphosis
+# 🐧 Think for yourself
 
 <div align="center">
 

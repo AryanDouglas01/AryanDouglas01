@@ -102,6 +102,8 @@ Industry 4.0
 
 # 🔬 Research & Projects
 
+# 🔬 Research & Projects
+
 ## ✈️ UAV Energy Efficiency Research
 
 Scientific initiation project focused on:
@@ -111,9 +113,15 @@ Scientific initiation project focused on:
 - flight stability;
 - experimental methodologies.
 
-Developed during my research period at IFG.
+> [!IMPORTANT]
+> **Project Report:** 
+> 📄 [Relatorio_IC_PIBIC_IFG_2022_AEROMODELO.pdf](https://github.com/AryanDouglas01/AryanDouglas01/blob/main/Relatorio_IC_PIBIC_IFG_2022_AEROMODELO-bf88d8733a05401aa554e279187be5d0.pdf)
+
+*Developed during my research period at IFG.*
+
 
 ---
+
 
 # 🌌 Philosophy
 

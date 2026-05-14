@@ -17,7 +17,7 @@ Computer Science Student • Industrial Automation Technician • Cybersecurity 
 
 Computer Science student at the Federal University of Goiás (UFG) with a technical background in Industrial Automation from IFG.
 
-Former intern at TSE Engenharia e Automação, working with:
+Former intern working with:
 - industrial automation systems;
 - HMI development;
 - Rockwell Automation technologies;

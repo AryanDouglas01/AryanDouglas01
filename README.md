@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=There+is+no+knowledge+without+curiosity.;Industrial+Automation+%7C+Cybersecurity;Graph+Theory+%7C+Algorithms+%7C+Physics;Low-Level+Systems+%7C+Mathematics;The+code+is+the+DNA+of+the+machine." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=There+is+no+knowledge+without+curiosity.;Industrial+Automation+%7C+Cybersecurity;Graph+Theory+%7C+Algorithms;Low-Level+Systems+%7C+Mathematics;The+code+is+the+DNA+of+the+machine." />
 
 # 🏴‍☠️ Aryan Douglas 🏴‍☠️
 
@@ -97,7 +97,7 @@ This certification supports my ability to:
 | 🌐 Computing | Algorithms, Complexity & Low-Level Systems |
 | 🔐 Cybersecurity | Digital Security & System Analysis |
 | 📊 Discrete Structures | Graph Theory & Discrete Mathematics |
-| ⚛️ Physics | Classical & Theoretical Physics |
+| 🖥️ Systems | Operating Systems & System Architecture |
 
 </div>
 
@@ -194,12 +194,12 @@ Experimental Research
 
 ---
 
-# 🐧 Systems, Security & Low-Level Computing
+# 🐧 Systems, Security & Digital Freedom
 
 <div align="center">
 
 <img 
-src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/LInus.png?raw=true" 
+src="https://github.com/AryanDouglas01/AryanDouglas01/blob/main/linussnowden.png?raw=true" 
 width="750"
 />
 

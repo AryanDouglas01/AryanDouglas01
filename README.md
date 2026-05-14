@@ -102,8 +102,6 @@ Industry 4.0
 
 # 🔬 Research & Projects
 
-# 🔬 Research & Projects
-
 ## ✈️ UAV Energy Efficiency Research
 
 Scientific initiation project focused on:
